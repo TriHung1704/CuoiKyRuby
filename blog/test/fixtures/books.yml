@@ -1,9 +1,0 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  mahs_270: MyString
-  hoten_270: MyString
-
-two:
-  mahs_270: MyString
-  hoten_270: MyString
